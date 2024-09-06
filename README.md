@@ -3,7 +3,7 @@ TABLEU PUBLIC-https://public.tableau.com/views/Book1_17252078531100/KARAMOJADIST
 
 Richard__Etyang_Karamoja_Project_ipynb.ipynb-https://github.com/EtyangRichard/Karamoja-Project/blob/main/Richard__Etyang_Karamoja_Project_ipynb.ipynb
 
-KARAMOJA PROJECT- RICHARD.pdf-https://github.com/EtyangRichard/Karamoja-Project/blob/main/KARAMOJA%20PROJECT-%20RICHARD.pdf
+KARAMOJA PROJECT- https://github.com/EtyangRichard/Karamoja-Project/blob/main/KARAMOJA%20PROJECT-%20RICHARD%20ETYANG.pdf
 
 cleaned_data.csv-https://github.com/EtyangRichard/Karamoja-Project/blob/main/cleaned_data.csv
 
